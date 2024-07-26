@@ -1,10 +1,22 @@
 {
   "users": [
     {
+      "id": 1,
       "username": "firstuser",
       "password": "$2a$10$Y34sc/tAwUykf20R3qdMSukpsEgxOxIjhiaLD9A6lnMajySXMJfYa",
-      "email": "firstuser",
-      "id": 1
+      "email": "firstuser"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "userId": 1,
+      "symbolId": "GEMINI:btcgusdperp"
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "symbolId": "GEMINI:btcgusdperp"
     }
   ]
 }
